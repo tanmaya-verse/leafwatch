@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.zip
+plantvillage*/
+PlantVillage/
+kaggle.json
+.env
